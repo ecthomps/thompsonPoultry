@@ -1,0 +1,21 @@
+html, body{
+    width: 100%;
+}
+
+#logo{
+    /* max-height: 40px;
+    max-width: 30%; 
+    overflow: visible;
+    padding-top: 0;
+    padding-bottom: 0;  */
+    max-width: 55%;
+}
+
+.navbar .navbar-brand img {
+    display: inline-block;
+  }
+
+  .nav.justify-content-end{
+      flex: auto;
+      padding-right: 30px;
+  }
