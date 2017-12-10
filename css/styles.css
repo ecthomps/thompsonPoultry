@@ -15,7 +15,7 @@ html, body{
     display: inline-block;
   }
 
-  .nav.justify-content-end{
+  .justify-content-end{
       flex: auto;
-      padding-right: 30px;
+      padding-right: 75px;
   }
